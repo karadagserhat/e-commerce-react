@@ -5,5 +5,5 @@ https://e-commerce-react-shop.netlify.app/
 • Impelemented authentication with Auth0  
 • Impelemented payment feature with Stripe API  
 • Used netlify serverless functions for secure payment with Stripe      
-• Used Airtable for data storage.  
+• Used Airtable for data storage   
 • Used tools : Styled Components, React Hooks, Auth0, Stripe, Airtable
