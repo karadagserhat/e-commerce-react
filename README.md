@@ -1,6 +1,6 @@
 https://e-commerce-react-shop.netlify.app/
 
-• Developed e-commerce shopping app  
+• Developed e-commerce shopping app with React
 • Managed global UI state with useReducer and Context API     
 • Impelemented authentication with Auth0  
 • Impelemented payment feature with Stripe API  
